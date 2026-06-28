@@ -1,0 +1,11 @@
+.task-list{
+    width:90%;
+    max-width:700px;
+    margin:30px auto;
+}
+
+.task-list h2{
+    text-align:center;
+    margin-bottom:20px;
+    color:#333;
+}
